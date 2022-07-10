@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/lab419_oh/Desktop/traffic/traffic.sim/sim_1/behav/xsim/glbl.v,1513215260,verilog,,,,glbl,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sim_1/new/tb_top.v,1655910352,verilog,,,,tb_top,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/fnd_decoder.v,1655815035,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/frq_div1000.v,,fnd_decoder,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/frq_div1000.v,1655791132,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/frq_div125.v,,frq_div1000,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/frq_div125.v,1655791220,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/frq_div4.v,,frq_div125,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/frq_div4.v,1655791172,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/motor_control.v,,frq_div4,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/motor_control.v,1655800482,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/motor_counter.v,,motor_control,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/motor_counter.v,1655799458,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/motor_state_led.v,,motor_counter,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/motor_state_led.v,1655888027,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/sig_counter.v,,motor_state_led,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/sig_counter.v,1655791272,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/sig_led.v,,sig_counter,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/sig_led.v,1655887930,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/top.v,,sig_led,,,,,,,,
+C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sources_1/new/top.v,1655911746,verilog,,C:/Users/lab419_oh/Desktop/traffic/traffic.srcs/sim_1/new/tb_top.v,,signal,,,,,,,,
